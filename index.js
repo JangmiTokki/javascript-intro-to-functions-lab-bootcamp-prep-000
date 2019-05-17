@@ -23,7 +23,7 @@ function sayHiToGrandma(String)
   
   var unheard = "I can't hear you!"
   var heard = "YES INDEED!"
-  var iLoveYou = "I love you, too"
+  var iLoveYou = "I love you, too."
   
   if(String === "I love you, Grandma.")
   {
